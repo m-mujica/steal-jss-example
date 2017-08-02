@@ -1,0 +1,29 @@
+{
+  "name": "steal-jss-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "color": "^2.0.0",
+    "http-server": "^0.10.0",
+    "jss": "^8.1.0",
+    "jss-preset-default": "^3.0.0",
+    "steal": "stealjs/steal#peer-deps"
+  },
+  "scripts": {
+    "start": "http-server -c-1 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-mujica/steal-jss-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-mujica/steal-jss-example/issues"
+  },
+  "homepage": "https://github.com/m-mujica/steal-jss-example#readme"
+}
